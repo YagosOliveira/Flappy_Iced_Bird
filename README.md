@@ -22,11 +22,13 @@ Durante o jogo:
 ## 🛠️ Tecnologias usadas:
 
 
--**HTML5**: Para criação do canvas.
+- **HTML5**: Para criação do canvas.
 
--**JavaScript**: backend do projeto.
+- **JavaScript**: backend do projeto.
 
 - **Canvas API**: desenho dos frames e da tela.
+
+  video exemplo [aqui](https://drive.google.com/drive/search?hl=pt-br&q=after:2024-11-19)
 
 <div align="center">
   <img src="https://github.com/YagosOliveira/Flappy_Iced_Bird/blob/main/image.png" alt="Sprite do Jogo" width="300">
