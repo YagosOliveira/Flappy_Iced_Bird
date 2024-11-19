@@ -10,6 +10,7 @@ Início:
 
 - Ao iniciar, o jogador verá o menu inicial.
 - Clique ou pressione a barra de espaço para começar.
+  
 Durante o jogo:
 
 - O pássaro deve voar evitando os canos.
