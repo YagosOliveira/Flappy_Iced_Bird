@@ -24,6 +24,8 @@ Durante o jogo:
 
 -**JavaScript**: backend do projeto.
 
+- **Canvas API**: desenho dos frames e da tela.
+
 <div align="center">
   <img src="https://github.com/YagosOliveira/Flappy_Iced_Bird/blob/main/image.png" alt="Sprite do Jogo" width="300">
 </div>
