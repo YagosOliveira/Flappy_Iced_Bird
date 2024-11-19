@@ -1,6 +1,8 @@
 # 🕹️ Flappy Iced Bird
 
-Um jogo inspirado no clássico Flappy Bird, onde o jogador controla um pássaro que precisa desviar de obstáculos para acumular pontos. Este projeto foi desenvolvido como trabalho da diciplina de Complexidade de algoritmos, para testar habilidades com JavaScript, manipulação de canvas e lógica de jogos 2D.
+Um jogo inspirado no clássico Flappy Bird, onde o jogador controla um pássaro que precisa desviar de obstáculos para acumular pontos. Este projeto foi desenvolvido como trabalho da diciplina de Complexidade de Algoritmos 6° semestre, para testar habilidades com JavaScript, manipulação de canvas e lógica de jogos 2D.
+
+Aluno: Yago Antonio Sanches Oliveira || RGM: 30079039
 
 ## 🚀 Como jogar
 
